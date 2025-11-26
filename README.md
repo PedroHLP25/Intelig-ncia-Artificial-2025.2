@@ -1,5 +1,5 @@
 # Discente: Pedro Henrique Lima Pereira
-
+# Linguagem Escolhida: Python
 # Inteligência-Artificial-2025.2
 
 # Ciclo 1
